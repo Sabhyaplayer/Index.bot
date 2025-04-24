@@ -1,0 +1,10 @@
+{
+  "name": "cinema-ghar-api",
+  "version": "1.0.0",
+  "description": "API for Cinema Ghar Index",
+  "main": "api/movies.js",
+  "private": true,
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
